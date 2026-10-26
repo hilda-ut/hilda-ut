@@ -1,5 +1,4 @@
-# Hi, I'm Hilda <img src="assets/emoji.png" alt="coding with AI" height="30" valign="middle">
-
+# Hi, I'm Hilda <img src="assets/header-scientist.png" alt="geeky scientist" height="32">
 
 I'm a full-stack engineer with about 6 years in Ruby, Node, and React. I like working across the whole thing, from the API and the data up to the part people actually click, and I don't really rest until a problem is properly solved.
 
@@ -9,12 +8,12 @@ The part I enjoy most is building the tooling that makes everyone around me fast
 
 Before engineering I taught for 13 years, which is partly why I care so much about the human side of software, the connection people have with an app and how it lifts their quality of life. Right now I'm working on two personal projects, one in the memory space and one in education. I love meeting other people who like building things, so reach out any time, even just to say hi or grab a coffee chat.
 
-Outside work you'll usually find me with family or fermenting something. There is always a jar of kombucha, fire cider, or preserved lemon in the making in our kitchen. And yes, some days I do wonder whether I should just open a fermentation business instead.
+Outside work you'll usually find me with family or fermenting something. There is always a jar of kombucha, fire cider, or preserved lemon in the making in our kitchen <img src="assets/kitchen-magic.png" alt="a little magic" height="22">. And yes, some days I do wonder whether I should just open a fermentation business instead.
 
-### Tech I use
+### Tech I use <img src="assets/tech-unicorn.png" alt="unicorn coder" height="22">
 
 TypeScript, Ruby on Rails, NestJS, React, Next.js, GraphQL, Node.js, Supabase, Tailwind
 
-### Elsewhere
+### Elsewhere <img src="assets/elsewhere-butterfly.png" alt="butterfly sparkle" height="22">
 
 Based in Dubai, open to remote and AI-first teams. Say hi on [LinkedIn](https://www.linkedin.com/in/hildakhajehamiri/).
