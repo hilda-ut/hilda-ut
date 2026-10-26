@@ -1,4 +1,4 @@
-# Hi, I'm Hilda 👋 <img src="assets/emoji.png" alt="code with love" height="30" valign="middle">
+# Hi, I'm Hilda <img src="assets/emoji.png" alt="coding with AI" height="30" valign="middle">
 
 
 I'm a full-stack engineer with about 6 years in Ruby, Node, and React. I like working across the whole thing, from the API and the data up to the part people actually click, and I don't really rest until a problem is properly solved.
