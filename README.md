@@ -16,4 +16,4 @@ TypeScript, Ruby on Rails, NestJS, React, Next.js, GraphQL, Node.js, Supabase, T
 
 ### Let's connect <img src="assets/elsewhere-butterfly.png" alt="butterfly sparkle" height="22">
 
-I love meeting other people who like building things, so reach out any time, even just to say hi or grab a coffee chat. I'm based in Dubai, open to remote and AI-first teams. [Book a coffee chat on my calendar](https://calendar.app.google/bD76pxDRyGhEBCrT8) or say hi on [LinkedIn](https://www.linkedin.com/in/hildakhajehamiri/).
+I'm based in Dubai and always happy to meet other people who like building things. Reach out any time, even just to say hi. [Grab a coffee chat on my calendar](https://calendar.app.google/bD76pxDRyGhEBCrT8) or find me on [LinkedIn](https://www.linkedin.com/in/hildakhajehamiri/).
